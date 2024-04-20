@@ -1,0 +1,1 @@
+git clone https://github.com/OnePlus-7-Series/vendor_oneplus_guacamoleb.git vendor/oneplus/guacamoleb --depth=1
